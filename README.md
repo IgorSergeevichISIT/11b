@@ -14,3 +14,10 @@
 Создание калькулятора. Функции на JavaScript.
 
 * [Методические указания](/turorials/lab2/readme.md)
+
+#### ПО
+
+1. [Node JS](https://nodejs.org)
+2. [npm](https://www.npmjs.com)
+3. [VS Code](https://code.visualstudio.com)
+4. [VS Code LiveServer](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
