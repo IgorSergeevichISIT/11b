@@ -21,3 +21,8 @@
 2. [npm](https://www.npmjs.com)
 3. [VS Code](https://code.visualstudio.com)
 4. [VS Code LiveServer](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+
+
+#### Публикация работ
+
+Переходим на сайт https://pages.github.com/ и создаем репозиторий по инструкции. Качаем GitHub Dekstop и работаем в дальнейшем с ним. Ввыполянем все по инструкции и публикуем странику. 
